@@ -1,2 +1,1 @@
-# dbz-loja
-Loja virtual — projeto Desenvolvimento Web I
+# <img scr="://.github/assets/images/GOKU.jpg"/>Bem Vindo ao Sayajin Store
