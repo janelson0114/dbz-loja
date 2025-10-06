@@ -1,8 +1,8 @@
 # <img width="54px" height="64px" alt="sayajin" src="https://github.com/user-attachments/assets/e0135df7-a892-4065-8469-ead3b889ba0c" /> Bem Vindo ao Sayajin Store
 
-**Projeto - Loja do DBZ - Projeto de DW I - FATEC Diadema/SP | Desenvolvido por: Carlos Eduardo Lima Silva / Erick Silva / Fagner Cardoso da Silva / Gustavo Matos de Souza / Janelson Araújo de Jesus / Luiz Fernando Menezes / Ryan Santos de Oliveira.**
+**Projeto - Loja do DBZ - Projeto de Desenvolvimento Web I - Profº Bruno Zolotareff - FATEC Diadema/SP | Desenvolvido por: Carlos Eduardo Lima Silva / Erick Silva / Fagner Cardoso da Silva / Gustavo Matos de Souza / Janelson Araújo de Jesus / Luiz Fernando Menezes / Ryan Santos de Oliveira.**
 
-*link:* 
+*link projeto:* 
 
 https://erick-silva8.github.io/dbz-loja/
 #
@@ -23,7 +23,7 @@ https://erick-silva8.github.io/dbz-loja/
 <br>
 <br>
 
-**Iniciamos o projeto manipulando as bordas, padding, margin e estilo com HTML5**
+**Aplicando todos os fundamentos passados em sala de aula, iniciamos o projeto manipulando as bordas, padding, margin e estilo com HTML5.**
 <br>
 
 <div display="inline">
@@ -32,7 +32,8 @@ https://erick-silva8.github.io/dbz-loja/
 <br>
 <br>
 
-**O site foi criado com o tema DRAGON BALL Z com um layout básico de loja**
+**Para escolha nos foi dado duas opções de tema para a loja, Naruto ou Dragon Ball Z, escolhemos a segunda opção para desenvolvermos o site. Com um layout básico de loja, porém com toda a funcionalidade, 
+a Sayajins Store traz como produtos os famosos FUNKOS do universo DBZ.**
 
 <div display="inline">
 <img width="334px" height="184px" alt="Tela_sayajins-store" src="https://github.com/user-attachments/assets/369adbd9-0975-444b-9915-beb4aca0e607" />
