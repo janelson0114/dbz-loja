@@ -1,6 +1,6 @@
 # <img width="54px" height="64px" alt="sayajin" src="https://github.com/user-attachments/assets/e0135df7-a892-4065-8469-ead3b889ba0c" /> Bem Vindo ao Sayajin Store
 
-**Projeto - Loja do DBZ - Projeto de DW I - FATEC Diadema/SP | Desenvolvido por: Carlos Eduardo Lima Silva / Erick Silva / Fagner Cardoso da Silva / Gustavo / Janelson Araújo de Jesus / Luiz Fernando Menezes / Ryan Santos de Oliveira.**
+**Projeto - Loja do DBZ - Projeto de DW I - FATEC Diadema/SP | Desenvolvido por: Carlos Eduardo Lima Silva / Erick Silva / Fagner Cardoso da Silva / Gustavo Matos de Souza / Janelson Araújo de Jesus / Luiz Fernando Menezes / Ryan Santos de Oliveira.**
 
 *link:* 
 
@@ -10,6 +10,7 @@ https://erick-silva8.github.io/dbz-loja/
 
 
 **Para o projeto foi sugerido usarmos alguns componentes usados em estilos HTML5, CSS, Bootstrap e JavaScript**
+<br>
 
 <div display= "inline">
 <img width="54px" height="54px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />   
@@ -19,14 +20,19 @@ https://erick-silva8.github.io/dbz-loja/
 <div> 
 
 </div>
+<br>
+<br>
 
 **Iniciamos o projeto manipulando as bordas, padding, margin e estilo com HTML5**
+<br>
 
 <div display="inline">
-<img width="182" height="147" alt="Borda" src="https://github.com/user-attachments/assets/0cab5b5c-19ae-40e6-b31b-7aedf69ffced" />
+<img width="175px" height="220px" alt="Borda" src="https://github.com/user-attachments/assets/0cab5b5c-19ae-40e6-b31b-7aedf69ffced" />
 </div>
+<br>
+<br>
 
-**Criamos um site com o tema DRAGON BALL Z com um layout de loja**
+**O site foi criado com o tema DRAGON BALL Z com um layout básico de loja**
 
 <div display="inline">
 <img width="334px" height="184px" alt="Tela_sayajins-store" src="https://github.com/user-attachments/assets/369adbd9-0975-444b-9915-beb4aca0e607" />
